@@ -10,6 +10,17 @@
   <em>Passionate about coding and building amazing projects</em>
 </p>
 
+## ✨ Latest Products
+
+- [Malink](https://malink.my.id) - A simple and modern Bio Card
+
+## 🎯 Latest Project
+
+- [Svelte Common Hooks](https://github.com/fanboykun/svelte-common-hooks) - A collection of common hooks for Svelte
+- [Sveltekit Hono Starter](https://github.com/fanboykun/sveltekit-hono-starter) - A starter template for SvelteKit with Hono
+- [Django Makefile Starter](https://github.com/fanboykun/django-starter) - A starter template for Django with Unified & Simplified Development setup with Makefile
+- [Leetcode Solutions Helper](https://github.com/fanboykun/leetcode-solver-helper) - A helper for Leetcode solutions with Deno
+
 ## 🔥 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fanboykun&theme=radical&hide_border=true)](https://git.io/streak-stats)
