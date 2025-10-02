@@ -12,13 +12,13 @@
 
 ## ✨ Latest Products
 
-- [Malink](https://pos-workshop.vercel.app) - A Point of sales app for POS Workshop
-- [Malink](https://barberin.vercel.app) - A Barbershop Management App
+- [POS Workshop](https://pos-workshop.vercel.app) - A Point of sales app for POS Workshop
+- [Barberin](https://barberin.vercel.app) - A Barbershop Management App
 - [Malink](https://malink.my.id) - A simple and modern Bio Card
 
 ## 🎯 Latest Project
 
-- [Svelte Common Hooks](https://github.com/fanboykun/sveltekit-rfc-starter) - A Sveltekit Saas Starterkit with RFC
+- [SvelteKit Saas Starter](https://github.com/fanboykun/sveltekit-rfc-starter) - A Sveltekit Saas Starterkit with RFC
 - [Svelte Common Hooks](https://github.com/fanboykun/svelte-common-hooks) - A collection of common hooks for Svelte
 - [Sveltekit Hono Starter](https://github.com/fanboykun/sveltekit-hono-starter) - A starter template for SvelteKit with Hono
 - [Django Makefile Starter](https://github.com/fanboykun/django-starter) - A starter template for Django with Unified & Simplified Development setup with Makefile
